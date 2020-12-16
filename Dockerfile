@@ -1,3 +1,9 @@
+########################
+# CentOS 6.10
+# JDK1.8
+# tomcat7.0.107
+########################
+
 FROM centos:centos6.10
 MAINTAINER crazyj7@gmail.com
 
