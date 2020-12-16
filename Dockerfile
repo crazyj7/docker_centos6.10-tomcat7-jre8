@@ -4,6 +4,7 @@
 # tomcat7.0.107
 ########################
 
+
 FROM centos:centos6.10
 MAINTAINER crazyj7@gmail.com
 
